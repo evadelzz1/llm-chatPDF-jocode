@@ -4,6 +4,8 @@ python -V
 
 pyenv local 3.9.18
 
+pyenv versions
+
 which python
 
 python -m venv .venv
@@ -12,6 +14,7 @@ ls -la
 
 echo '.env'  >> .gitignore
 echo '.venv' >> .gitignore
+echo 'models/' >> .gitignore
 
 echo "# Project" >> readme.md
 
