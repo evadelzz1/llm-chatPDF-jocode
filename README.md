@@ -1,7 +1,12 @@
 # llm-chatPDF-jocode
 variable a llm example code
 
-python 버젼 고정 : 3.9 버젼에서 에러없이 동작함
+소스코드 다운로드
+
+    git clone https://github.com/evadelzz1/llm-chatPDF-jocode.git
+
+
+python 버젼 고정 (3.9 버젼에서 에러없이 동작함)
 
     cd ./llm-chatPDF-jocode
 
